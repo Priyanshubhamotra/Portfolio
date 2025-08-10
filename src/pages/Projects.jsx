@@ -5,7 +5,7 @@ const projects = [
   {
     title: "E-Commerce Store",
     description: "A modern e-commerce platform built with PHP and MySQL, featuring product listings, user authentication, cart management, and a secure checkout system.",
-    image: "../src/imgs/ecomm.jpeg", 
+    image: "https://i.ibb.co/wZxmWjXb/ecomm.jpg", 
     github: "https://github.com/Priyanshubhamotra/Onlinesshop",
     tech: ["HTML", "CSS", "PHP", "MySQL"],
   },
@@ -36,7 +36,7 @@ const projects = [
   {
     title: "Restaurant Management System",
     description: "A console-based restaurant billing and table management system developed in C++, suitable for basic food order handling and bill generation.",
-    image: "../src/imgs/rest.png",
+    image: "https://i.ibb.co/Hp2yqSvq/rest.png",
     github: "https://www.onlinegdb.com/ku0BxMRkf",
     demo: "https://www.onlinegdb.com/ku0BxMRkf",
     tech: ["C++"],
